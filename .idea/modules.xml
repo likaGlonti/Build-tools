@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/builders.iml" filepath="$PROJECT_DIR$/.idea/builders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services/src/main/main.iml" filepath="$PROJECT_DIR$/services/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin/src/main/main1.iml" filepath="$PROJECT_DIR$/admin/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/src/main/main2.iml" filepath="$PROJECT_DIR$/web/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/src/main/main3.iml" filepath="$PROJECT_DIR$/utils/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/src/test/test.iml" filepath="$PROJECT_DIR$/utils/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/src/test/test1.iml" filepath="$PROJECT_DIR$/web/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin/src/test/test2.iml" filepath="$PROJECT_DIR$/admin/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services/src/test/test3.iml" filepath="$PROJECT_DIR$/services/src/test/test3.iml" />
+    </modules>
+  </component>
+</project>
